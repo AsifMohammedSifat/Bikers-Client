@@ -30,7 +30,7 @@ const SignUp = () => {
 
   // Change Title
   useEffect(() => {
-    document.title = "Bikeo | Sign Up";
+    document.title = "Bikers | Sign Up";
     window.scrollTo(0, 0);
   }, []);
 

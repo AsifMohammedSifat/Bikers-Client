@@ -21,7 +21,7 @@ const Footer = () => {
           </p>
           <p>
             <i className="fas fa-envelope"></i>{" "}
-            <span className="sp">contact@bikeo.com</span>
+            <span className="sp">contact@bikers.com</span>
           </p>
         </div>
         <div className="col">
@@ -78,7 +78,7 @@ const Footer = () => {
           <i className="fas fa-envelope follow-icon"></i>
         </div>
       </div>
-      <p className="copyright">Copyright © Bikeo | 2021</p>
+      <p className="copyright">Copyright ©Bikers | 2021</p>
     </div>
   );
 };

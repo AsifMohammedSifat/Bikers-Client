@@ -31,7 +31,7 @@ const Dashboard = () => {
         <ul className="nav flex-column text-white w-100">
           <div className="d-flex align-items-center mt-3 mb-4 ms-4">
             <img src="/logo.png" alt="" className="dash-img" />
-            <span className="ms-2 sp-color bikeo">Bikeo</span>
+            <span className="ms-2 sp-color bikeo">Bikers</span>
           </div>
           <NavLink to="/home" className="nav-link" activeClassName="active-nav">
             <span className="mx-2">

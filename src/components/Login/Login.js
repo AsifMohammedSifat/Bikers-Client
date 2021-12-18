@@ -22,7 +22,7 @@ const Login = () => {
   const [loading,setLoading] = useState(false);
   // Change Title
   useEffect(() => {
-    document.title = "Bikeo | Log In";
+    document.title = "Bikers | Log In";
     window.scrollTo(0, 0);
   }, []);
 

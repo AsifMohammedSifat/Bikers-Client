@@ -14,7 +14,7 @@ const Home = () => {
   const {user,admin} = useAuth();
   useEffect(() => {
     // Change Title
-    document.title = "Bikeo | Home";
+    document.title = "Bikers | Home";
     window.scrollTo(0, 0);
 
     // GET 6 products

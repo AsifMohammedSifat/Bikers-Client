@@ -7,7 +7,7 @@ const Explore = () => {
 
   useEffect(() => {
     // Change Title
-    document.title = "Bikeo | All Products";
+    document.title = "Bikers | All Products";
     window.scrollTo(0, 0);
 
     // GET all the products

@@ -4,7 +4,7 @@ import "./About.css";
 const About = () => {
   // Change Title
   useEffect(() => {
-    document.title = "Bikeo | About";
+    document.title = "Bikers | About";
     window.scrollTo(0, 0);
   }, []);
 
@@ -14,7 +14,7 @@ const About = () => {
       <div className="row row-cols-1 row-cols-md-2 about-row px-2 g-4">
         <div className="col d-flex flex-column justify-content-center align-items-center ">
           <p className="about">
-            Bikeo is an experiential e-commerce platform with the objective of
+            Bikers is an experiential e-commerce platform with the objective of
             making the process of buying and owning a bicycle, a pleasurable
             experience for a customer by delivering your ordered goodies right
             to your doorstep. We are the only stand-alone holistic bicycling
@@ -22,7 +22,7 @@ const About = () => {
             help you to choose the right bicycle!
             <br />
             <br />
-            Bikeo has the widest range of Indian and International Bicycles
+            Bikers has the widest range of Indian and International Bicycles
             available for sale in India. We have bicycles across various
             categories: Kids Bicycles, MTB’s, Hybrid Bicycles, Road Bicycles,
             City Bicycles and Specialty Bicycles. Our website allows you to find
